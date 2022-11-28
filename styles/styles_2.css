@@ -1,0 +1,47 @@
+body{
+    background-image:url('../images/bbg.jpg');
+    background-size:100vw 100vh;
+}
+#game_screen{
+    border:1px solid white;
+    width:70vw;
+    height:70vh;
+    background-image:url('../images/landscape_2.jpg');
+    background-size:70vw 70vh;
+}
+#btn{
+    color:yellow;
+    margin-bottom:25px;
+    font-weight:bold;
+}
+#btn_2{
+    color:white;
+    width:100px;
+    height:25px;
+    font-weight:bold;
+    font-size:18pt;
+    padding-right:25vw;
+}
+#life{
+    font-weight:bold;
+    font-size:18pt;
+    color:red;
+}
+#flame{
+    display:none;
+}
+h1{
+    text-align:center;
+    color:white;
+    font-size:40px;
+    margin-top:0;
+}
+#score{
+    font-weight:bold;
+    font-size:18pt;
+    color:white;
+    padding-left:25vw;
+}
+#top_margin{
+    margin:40px;
+}

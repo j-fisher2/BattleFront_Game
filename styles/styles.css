@@ -1,0 +1,65 @@
+body{
+    background-image:url('../images/landscape_2.jpg');
+    background-size:100vw 100vh;
+}
+
+h3{
+    font-family:Arial;
+}
+h1{
+    text-align:center;
+    color:white;
+    font-size:40px;
+    margin-top:0;
+}
+#top_s{
+    text-align:center;
+    color:white;
+    font-size:20px;
+    margin-top:0;
+}
+#top_margin{
+    margin:40px;
+}
+
+#f{
+    width:30vw;
+}
+
+.center{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+.legend{
+    color:white;
+    font-size:22pt;
+}
+#mai{
+    width:90px;
+    height:90px;
+    position:absolute;
+}
+#mai2{
+    width:90px;
+    height:90px;
+    position:absolute;
+}
+#mai3{
+    width:90px;
+    height:90px;
+    position:absolute;
+}
+#mai4{
+    width:90px;
+    height:90px;
+    position:absolute;
+}
+h2{
+    text-align:center;
+    color:white;
+    padding:20px;
+
+}
