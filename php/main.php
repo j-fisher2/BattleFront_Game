@@ -35,6 +35,7 @@
             <a class="center" href="login.php"><button class="btn btn-dark" class="center"><b>Login</b></button></a><br><br>
             <a class="center" href="signup.php"><button class="btn btn-dark" class="center"><b>Sign Up</b></button></a><br><br>
             <a class="center" href="logout.php"><button class="btn btn-warning" class="center"><b>Logout</b></button></a>
+            <a class="center" href="delete_account.php">Delete Account</a>
         </div>
         <script src="../scripts/home_page.js"></script> 
     </body>
