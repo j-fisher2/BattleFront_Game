@@ -11,4 +11,5 @@ db=mysql.connector.connect(
 mycursor=db.cursor()
 
 #mycursor.execute("CREATE TABLE Person (username VARCHAR(50),password VARCHAR(50),topScore int UNSIGNED, ID int PRIMARY KEY AUTO_INCREMENT)")
+#mycursor.execute("INSERT INTO Person (username,password,topScore) VALUES('rr','123',300)")
 
